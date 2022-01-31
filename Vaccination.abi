@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"address","name":"previousAddresses","type":"address"}],"stateMutability":"nonpayable","type":"constructor"},{"inputs":[{"internalType":"address","name":"_address","type":"address"}],"name":"VaccinationShot","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"nonpayable","type":"function"}]
